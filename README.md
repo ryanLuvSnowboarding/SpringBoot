@@ -10,7 +10,7 @@ add food to the cart, modify the cart and checkout the cart functionalities.
 ## In the Home page, user can choose the restaurant he want to order：
 <img width="1346" alt="Screen Shot 2023-10-11 at 11 12 52" src="https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/da25276a-2161-4c14-8b7f-c3ba17bc5b12">
 <img width="1348" alt="Screen Shot 2023-10-11 at 11 13 15" src="https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/67de92dd-0960-423d-980f-50aefb8e01a7">
-![250413293-3aa918d4-7098-4c3c-8089-9a47b30aa003](https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/40983a26-b9b2-494a-a579-793f7c0aee97)
+
 
 ## Then users can go to cart and check the food they have selected and checkout:
 ![image](https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/5d73e219-c071-41bc-97c7-80da2732edf5)
