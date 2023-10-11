@@ -5,9 +5,10 @@ add food to the cart, modify the cart, and checkout the cart functionalities.
 
 ## The backend structure and data structure are shown below: 
 
-the backend strucure is shown below: 
+The backend strucure is shown below: 
 In the Spring Boot, all the incoming HTTP requests are handled by controllers. Service classes focus on the business logic. For example: RestaurantService is handle requests to return the list of restaurants with all the menu imtes associated. 
 <img width="725" alt="Screen Shot 2023-10-11 at 14 21 45" src="https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/c825df57-cb38-4558-936f-affc09e81f89">
+The data structure is shown below: 
 <img width="864" alt="Screen Shot 2023-10-11 at 14 24 42" src="https://github.com/ryanLuvSnowboarding/SpringBoot/assets/143637686/b02d3a3f-b7e6-4544-a7b7-c7f4e845dc3c">
 
 
